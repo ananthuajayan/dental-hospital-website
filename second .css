@@ -670,6 +670,11 @@ ul{
     display: none;
     margin-right: 5px;
 }
+.fa-bars{
+    width: 14px;
+    margin-right: 7px;
+    padding-right: 17px;
+}
 .list-details{
     display: none;
     opacity: 0;
